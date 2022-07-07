@@ -3,7 +3,7 @@ The Record of Distributed Systems Learning
 
 针对分布式系统(云计算、去中心化网络)中的一些知识进行学习记录：
 
-- [分布式系统经典书籍翻译](./Book/README.md)
+- [分布式系统经典书籍翻译](./book/README.md)
 - [共识算法](./共识算法/README.md)
 - [DHT算法](./共识算法/README.md)
 
